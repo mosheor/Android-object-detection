@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">findEfi</string>
+
+    <string name="error_incorrect_field">This field is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="choose_a_label">choose a label</string>
+    <string name="where_is_efi">Where Is Efi</string>
+    <string name="go">go</string>
+</resources>
